@@ -15,3 +15,6 @@ So far, I have done every texture however I have not checked over them. This mea
 This texture pack should work with most versions of Minecraft, as long as you have Continuity or Optifine. However, I have not tested versions before 1.20.
 
 Some texture packs do not work well with this, mostly 3D models or block state specific models. An example of both of these is the 'Visual Note Block Pitch' texture in Vanilla Tweaks.
+
+---
+This is on [Modrinth](https://modrinth.com/mod/its-all-connected), and it is only here on Github because I wanted a way for people to give me feedback (Via issues).
