@@ -1,4 +1,4 @@
-### This resource pack requires [Continuty](https://modrinth.com/mod/continuity) to work (or Optifine if you still use that)
+### This resource pack requires [Continuity](https://modrinth.com/mod/continuity) to work (or Optifine if you still use that)
 
 # It's All Connected
 
