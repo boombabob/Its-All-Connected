@@ -1,7 +1,6 @@
 {
-    "pack": { 
-       "pack_format": 15,
-       "description": "Connected textures for all blocks in minecraft"
+    "pack": {
+        "description": "Connected textures for all blocks in minecraft",
+	"pack_format": 46
     }
- }
- 
+}
