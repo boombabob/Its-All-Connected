@@ -1,16 +1,16 @@
 ### This resource pack requires [Continuity](https://modrinth.com/mod/continuity) to work (or Optifine if you still use that)
-
+## Updated for 26.2 Chaos Cubed update!
 # It's All Connected
 
-This resource pack uses CTM to connect every texture in vanilla Minecraft that makes sense to be. The way I did this is different than other CTM texture packs, as is shown from this example:
+The resource pack uses CTM to connect every texture in vanilla Minecraft that can be connected. This was done differently compared to other CTM texture packs, as is shown from this example:
 
 ![Texture comparison between this texture pack, Vanilla and CTM Overhaul](https://cdn-raw.modrinth.com/data/t4YAPTH1/images/dc1e24e85e84b7fed8399b5c00f9a4b596aa912d.png)
 
-My implementation preserves the vanilla look of blocks, while making it look smoother with CTM.
+This implementation preserves the vanilla look of blocks, while improving smoothness by removing block borders with CTM.
 
 # Current status
 
-Update for 1.21 just released with textures for new blocks! also, all textures have been upgraded and any problems have been fixed.
+Update for 26.2 is now released with textures for new blocks in the Chaos Cubed update! also, all textures have been upgraded and any problems have been fixed.
 
 ![New blocks in 1.21](https://cdn.modrinth.com/data/t4YAPTH1/images/ff170c61120d4b7c49c09a0ceef30de4e6a7f9ed.png)
 
